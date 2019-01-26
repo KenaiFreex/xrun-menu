@@ -1,2 +1,2 @@
 # xrun-menu
-Herramienta basada en python-menu para seleccionar con cual GPU iniciar una sesión X al boot del sistema en manjaro utilizando xrun
+Tool based on python-menu to select with which GPU to initiate an X session to boot the system in manjaro using xrun
