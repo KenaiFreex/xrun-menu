@@ -1,7 +1,7 @@
 # xrun-menu
 Tool based on python-menu to select with which GPU to initiate an X session to boot the system in manjaro using xrun
 
-# this tool has only been tested on manjaro with "mhwd -a pci nonfree 0300"
+# This tool has only been tested on manjaro with "mhwd -a pci nonfree 0300"
 
 
 First we have to make sure that we have installed the non-free manjaro drivers by executing the following command
